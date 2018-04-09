@@ -1,0 +1,16 @@
+{
+    "web":{
+        "rewrites":{
+            "enable":true
+        },
+        "http":{
+            "port":"8080"
+        }
+    },
+    "app":{
+        "cfengine":"adobe@2016"
+    },
+    "jvm":{
+        "javahome":"C:\\Program Files\\Java\\jdk1.8.0_162"
+    }
+}
